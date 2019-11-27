@@ -1,6 +1,10 @@
 # vue-cli-test
 
-> A Vue.js project
+An example of the Vue CLI app with Vue Test Utils & Jest
+
+## Explanation
+
+* [Vue.js ユニットテストの基本まとめ - Qiita](https://qiita.com/kskinaba/items/d23259060e6e13b7353c)
 
 ## Build Setup
 
@@ -15,4 +19,8 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Run test
+
+```
+npm test
+```
