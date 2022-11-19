@@ -12,7 +12,7 @@
     "serve": "node_modules/.bin/vue-cli-service serve"
   },
   "dependencies": {
-    "@vue/cli-service": "^4.1.1",
+    "@vue/cli-service": "^5.0.8",
     "vue": "^2.5.11"
   },
   "browserslist": [
